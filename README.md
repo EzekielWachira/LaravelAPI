@@ -5,12 +5,12 @@ run the migration php artisan migrate
 run php artisan db:seed
 
 ## Send HTTP requests 
-if you are running laravel server on your computer, send a request e.g 127.0.0.1:8000/api/...
-<strong>All Articles</strong> e.g 127.0.0.1:8000/api/articles
-<strong>single Articles</strong> e.g 127.0.0.1:8000/api/article/{id} e.g 127.0.0.1:8000/api/article/4
-<strong>Create an article</strong> e.g 127.0.0.1:8000/api/article
-<strong>Update an article</strong> e.g 127.0.0.1:8000/api/article/{id}
-<strong>Delete an article</strong> e.g 127.0.0.1:8000/api/article/{id}
+if you are running laravel server on your computer, send a request e.g 127.0.0.1:8000/api/... <br />
+<strong>All Articles</strong> e.g 127.0.0.1:8000/api/articles <br />
+<strong>single Articles</strong> e.g 127.0.0.1:8000/api/article/{id} e.g 127.0.0.1:8000/api/article/4 <br />
+<strong>Create an article</strong> e.g 127.0.0.1:8000/api/article <br />
+<strong>Update an article</strong> e.g 127.0.0.1:8000/api/article/{id} <br />
+<strong>Delete an article</strong> e.g 127.0.0.1:8000/api/article/{id} <br />
 <br />
 <br />
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
