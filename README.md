@@ -1,3 +1,5 @@
+## An API built in Laravel and MySql database
+
 ## Set up
 run the migration php artisan migrate
 
